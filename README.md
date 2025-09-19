@@ -19,6 +19,8 @@ The maze watches.
 The maze waits.
 Will you escape?
 
+https://drive.google.com/file/d/1GuKMA6WYOOLXL-_TaCc3AtKR4GAFDB82/view?usp=sharing
+
 ## 🕹️ How to Play
 
 You explore the maze using terminal commands, just as if you were navigating a real filesystem.
