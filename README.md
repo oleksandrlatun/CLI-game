@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1GuKMA6WYOOLXL-_TaCc3AtKR4GAFDB82/view?usp=shari
 
 You explore the maze using terminal commands, just as if you were navigating a real filesystem.
 
-## Movement
+### Movement
 
 * ```ls``` → list available paths or items in the current location.
 
@@ -39,13 +39,13 @@ You explore the maze using terminal commands, just as if you were navigating a r
 
 * ```pwd``` → show where you currently are in the maze.
 
-## Reading Clues
+### Reading Clues
 
 * ```cat <file>``` → read notes, hints, or warnings.
 
 * Pay close attention! Clues may point you in the right direction… or lead you astray.
 
-## Collecting Keys
+### Collecting Keys
 
 * ```cp keyX.txt <destination>``` → copy a key into the exit chamber (you should fins it).
 
@@ -53,7 +53,7 @@ You explore the maze using terminal commands, just as if you were navigating a r
 
 * Fake keys (like the one in the dungeon) will be rejected.
 
-## Goal
+### Goal
 
 * Deliver all three real keys into the exit/ folder.
 
@@ -61,13 +61,13 @@ You explore the maze using terminal commands, just as if you were navigating a r
 
 * If successful, freedom awaits!
 
-## Warnings
+### Warnings
 
 * Some paths are ***traps*** or ***illusions***. They waste time, but may also contain clues.
 
 * Notes, ruins, and warnings are not always direct—interpret carefully.
 
-## 🎯 Victory Condition
+### 🎯 Victory Condition
 
 * When all three keys are placed in a chamber exitt and the lock accepts them, the door opens.
 <!-- /east/tunnel/chamber/exit/ -->
