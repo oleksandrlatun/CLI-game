@@ -19,11 +19,11 @@ The maze watches.
 The maze waits.
 Will you escape?
 
-# 🕹️ How to Play
+## 🕹️ How to Play
 
 You explore the maze using terminal commands, just as if you were navigating a real filesystem.
 
-# Movement
+## Movement
 
 * ```ls``` → list available paths or items in the current location.
 
@@ -33,13 +33,13 @@ You explore the maze using terminal commands, just as if you were navigating a r
 
 * ```pwd``` → show where you currently are in the maze.
 
-# Reading Clues
+## Reading Clues
 
 * ```cat <file>``` → read notes, hints, or warnings.
 
 * Pay close attention! Clues may point you in the right direction… or lead you astray.
 
-# Collecting Keys
+## Collecting Keys
 
 * ```cp keyX.txt <destination>``` → copy a key into the exit chamber (you should fins it).
 
@@ -47,7 +47,7 @@ You explore the maze using terminal commands, just as if you were navigating a r
 
 * Fake keys (like the one in the dungeon) will be rejected.
 
-# Goal
+## Goal
 
 * Deliver all three real keys into the exit/ folder.
 
@@ -55,7 +55,7 @@ You explore the maze using terminal commands, just as if you were navigating a r
 
 * If successful, freedom awaits!
 
-# Warnings
+## Warnings
 
 * Some paths are ***traps*** or ***illusions***. They waste time, but may also contain clues.
 
