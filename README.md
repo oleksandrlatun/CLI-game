@@ -1,5 +1,8 @@
 # 🌌 The Maze of Forgotten Paths 
 
+You are Elyra, a wanderer trapped in a living maze.
+<img align = "left" width="200" alt="ChatGPT Image Sep 19, 2025, 11_12_35 AM" src="https://github.com/user-attachments/assets/902d5490-1bf8-42a4-b854-74d5681de348" />
+
 You awaken in a place that feels both infinite and confined.
 Stone corridors stretch in all directions, branching into forests, swamps, ruins, deserts, and shadowed halls.
 The walls hum with whispers:
