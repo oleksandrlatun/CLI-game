@@ -1,4 +1,4 @@
-# 🌌 The Maze of Forgotten Paths
+# 🌌 The Maze of Forgotten Paths 
 
 You awaken in a place that feels both infinite and confined.
 Stone corridors stretch in all directions, branching into forests, swamps, ruins, deserts, and shadowed halls.
@@ -22,45 +22,46 @@ You explore the maze using terminal commands, just as if you were navigating a r
 
 # Movement
 
-```ls``` → list available paths or items in the current location.
+* ```ls``` → list available paths or items in the current location.
 
-```cd <direction>``` → move into that path (e.g., cd north/cave).
+* ```cd <direction>``` → move into that path (e.g., cd north/cave).
 
-```cd ..``` → go back one step.
+* ```cd ..``` → go back one step.
 
-```pwd``` → show where you currently are in the maze.
+* ```pwd``` → show where you currently are in the maze.
 
 # Reading Clues
 
-```cat <file>``` → read notes, hints, or warnings.
+* ```cat <file>``` → read notes, hints, or warnings.
 
-Pay close attention! Clues may point you in the right direction… or lead you astray.
+* Pay close attention! Clues may point you in the right direction… or lead you astray.
 
 # Collecting Keys
 
-```cp keyX.txt <destination>``` → copy a key into the exit chamber (east/tunnel/chamber/exit).
+* ```cp keyX.txt <destination>``` → copy a key into the exit chamber (you should fins it).
 
-Only three true keys (from north/cave, east/hall/statue, and east/tunnel/pit) will unlock the exit.
+* Only three true keys will unlock the exit.
 
-Fake keys (like the one in the dungeon) will be rejected.
+* Fake keys (like the one in the dungeon) will be rejected.
 
 # Goal
 
-Deliver all three real keys into the exit/ folder.
+* Deliver all three real keys into the exit/ folder.
 
-Once all are there, check the lock with cat lock.txt.
+* Once all are there, check the lock with cat lock.txt.
 
-If successful, freedom awaits!
+* If successful, freedom awaits!
 
 # Warnings
 
-Some paths are traps or illusions. They waste time, but may also contain clues.
+* Some paths are ***traps*** or ***illusions***. They waste time, but may also contain clues.
 
-Notes, ruins, and warnings are not always direct—interpret carefully.
+* Notes, ruins, and warnings are not always direct—interpret carefully.
 
 ## 🎯 Victory Condition
 
-When all three keys are placed in /east/tunnel/chamber/exit/ and the lock accepts them, the door opens.
-You will see a message of triumph:
+* When all three keys are placed in a chamber exitt and the lock accepts them, the door opens.
+<!-- /east/tunnel/chamber/exit/ -->
+* You will see a message of triumph:
 
 🎉 Congratulations, you escaped the maze with the true keys!
